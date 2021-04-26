@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Midterm1</string>
+    <string name="my_id">410721219</string>
+    <string name="number_one">num1 = </string>
+    <string name="number_two">"num2 = "</string>
+    <string name="plus_text">+</string>
+    <string name="minus_text">-</string>
+    <string name="multi_text">*</string>
+    <string name="div_text">/</string>
+    <string name="result_text">"Result = "</string>
+</resources>
